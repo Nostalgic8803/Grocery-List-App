@@ -1,5 +1,7 @@
 # Grocery List App
 
+<img src="images/grocery-list-dashboard.png" alt="Grocery List App">
+
 ## Overview
 
 <p>The Grocery List App is a web application that allows users to manage their grocery shopping list efficiently. Users can add products, edit details, categorize items, and view their shopping cart.<p>
